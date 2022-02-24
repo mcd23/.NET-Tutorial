@@ -1,0 +1,15 @@
+/Users/seanmcdonough/MyApp/bin/Debug/net6.0/MyApp
+/Users/seanmcdonough/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/seanmcdonough/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/seanmcdonough/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/seanmcdonough/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/seanmcdonough/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/seanmcdonough/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmcdonough/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/seanmcdonough/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/seanmcdonough/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/seanmcdonough/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/seanmcdonough/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/seanmcdonough/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/seanmcdonough/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/seanmcdonough/MyApp/obj/Debug/net6.0/ref/MyApp.dll
